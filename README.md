@@ -30,14 +30,38 @@ Translating Missoula’s urban camping ordinance into a clear spatial representa
 
 [View Dashboard](https://umontana.maps.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0)  
 
-
-<!-- Example of adding an image -->
-<!-- ![Urban Camping Map](images/urban_camping_map.png) -->
-
 ### Reflection  
-This project demonstrates my ability to translate policy language into spatial analysis workflows, apply geoprocessing tools (buffer, merge, erase), and communicate results through both dashboards and cartographic layouts.
+This project demonstrates my ability to translate policy into spatial analysis, apply geoprocessing tools (buffer, merge, erase), and communicate results through both dashboards and cartographic layouts.
 
 ---
 
-## 2. Mountain Block Recharge Estimation
+##  Geospatial Groundwater Interpolation & Analysis  
+**Programming for GIS**  
+Mikaela Bollag-Miller | April 2025  
+
+### Problem  
+How does groundwater level vary spatially and seasonally within the Missoula Aquifer, and how do these patterns relate to river corridors?
+
+### Data & Tools  
+- Monthly groundwater elevations from 19 monitoring wells (Missoula County)  
+- River corridor spatial data  
+- Python (NumPy, Pandas, GeoPandas, Matplotlib)  
+- PyKrige (Ordinary Kriging interpolation)  
+
+
+### Output  
+- Interpolated groundwater surface map (Ordinary Kriging)  
+- Kriging variance (uncertainty) map  
+- River-overlay visualization of groundwater elevation patterns  
+
+[View Notebook: FInal_Programming.ipynb]
+[View HTML Version](file:///Users/mikaelabollag-miller/Desktop/UMT/Semester%202/GIS/Final/GIS_Final_Nocode.html)
+
+<!-- <img width="928" height="538" alt="Screenshot 2026-03-02 at 9 39 41 PM" src="https://github.com/user-attachments/assets/966bd9a9-35a4-4e88-8bf7-479d9171a9e0" />
+-->
+<!-- ![Kriged Groundwater Surface](images/kriging_surface.png) -->
+<!-- ![Kriging Variance Map](images/kriging_variance.png) -->
+
+### Reflection  
+This project demonstrates my ability to conduct geospatial data preprocessing, perform statistical spatial interpolation (Kriging), manage coordinate systems, and communicate uncertainty in environmental modeling. It also highlights my interest in groundwater–surface water interactions and reproducible scientific workflows in Python.
 ...
