@@ -64,6 +64,36 @@ How does groundwater level vary spatially and seasonally within the Missoula Aqu
 This project demonstrates my ability to conduct geospatial data preprocessing, perform statistical spatial interpolation (Kriging), manage coordinate systems, and communicate uncertainty in environmental modeling. It also highlights my interest in groundwater–surface water interactions and reproducible scientific workflows in Python.
 
 ---
+## Investigating Mountain Block Recharge in the Missoula Aquifer (Conceptual MODFLOW Model)  
+**Hydrogeology (GEO 420)**  
+Mikaela Bollag-Miller  
 
+### Problem  
+How sensitive are simulated groundwater heads in the Missoula Aquifer to Mountain Block Recharge (MBR), and which parts of the aquifer respond most strongly to changes in lateral recharge?
+
+### Data & Tools  
+- MODFLOW 6 Groundwater 
+- Python (flopy, pygmt) + GIS for preprocessing, model setup, and visualizations 
+- Aquifer boundary + geometry (Simplified 1-layer, 50 m grid)  
+- Climate inputs: precipitation/melt (NOAA SNODAS) and evapotranspiration (OpenET) to estimate recharge (P − ET) 
+- Groundwater head data (Missoula County monitoring wells) used for reference/comparison  
+
+
+### Output  
+- Three model scenarios (0×, 1×, 5× MBR) and resulting head surfaces  
+- Δh (head difference) maps showing spatial sensitivity to MBR  
+- Summary statistics comparing head distributions across runs  
+
+[View Report (PDF)](PASTE_PDF_LINK)  
+[View Notebook / Code](PASTE_NOTEBOOK_LINK)
+
+<img width="871" height="752" alt="Screenshot 2026-03-02 at 9 53 38 PM" src="https://github.com/user-attachments/assets/59b40374-4a88-47cc-ad4c-2ad29f1e45b0" />
+) 
+
+<img width="955" height="396" alt="Screenshot 2026-03-02 at 9 54 47 PM" src="https://github.com/user-attachments/assets/16c6d771-f3bc-432a-aba3-4707a628a3ee" />
+
+
+### Reflection  
+This project demonstrates my ability to build a simplified groundwater model from conceptual assumptions, integrate climate and hydrogeologic datasets into boundary conditions, and run sensitivity analyses to interpret how recharge mechanisms (MBR) shape basin-scale head patterns. It also shows my skills in communicating model results through maps (head surfaces and Δh) and clear comparisons across scenarios.
 
 
