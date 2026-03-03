@@ -56,7 +56,7 @@ How does groundwater level vary spatially and seasonally within the Missoula Aqu
 
 [View Notebook: FInal_Programming.ipynb]
 
-[View HTML Version](file:///Users/mikaelabollag-miller/Desktop/UMT/Semester%202/GIS/Final/GIS_Final_Nocode.html)
+[View HTML Version](GIS_Final_Nocode.html)
 
  <img width="928" height="538" alt="Screenshot 2026-03-02 at 9 39 41 PM" src="https://github.com/user-attachments/assets/966bd9a9-35a4-4e88-8bf7-479d9171a9e0" />
 
