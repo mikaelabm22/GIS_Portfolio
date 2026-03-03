@@ -10,22 +10,32 @@ I am especially interested in the intersection of field data, spatial analysis, 
 
 # Projects
 
-## 1. Missoula Aquifer MODFLOW Model
+## Urban Camping Restrictions — Missoula  
+**In Collaberation with:** Natalie Orlik, Chase Sabbagh
 
-**Problem**
-How does recharge and mountain block inflow affect steady-state heads?
+### Problem  
+Translating Missoula’s urban camping ordinance into a clear spatial representation of where camping is allowed and prohibited within city limits.
 
-**Data & Tools**
-MODFLOW 6, Python, ERA5, well head data
+### Data & Tools  
+- ArcGIS Pro & ArcGIS Online (buffers, merge, erase, dashboard)
+- Missoula city boundary  
+- Parcel data (residential + commercial)  
+- Schools and shelters  
+- Parks and conservation lands (easements) 
+- Rivers, trails, and bike lanes  
 
-**Outputs**
-(insert maps / head contours / recharge maps)
+### Output  
+- ArcGIS Dashboard showing total allowable vs. restricted camping area  
+- Static map layout visualizing buffer restrictions  
 
-**Skills Demonstrated**
-• Numerical groundwater modeling  
-• Recharge estimation  
-• Spatial analysis  
-• Model validation  
+[View Dashboard](https://umontana.maps.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0)  
+
+
+<!-- Example of adding an image -->
+<!-- ![Urban Camping Map](images/urban_camping_map.png) -->
+
+### Reflection  
+This project demonstrates my ability to translate policy language into spatial analysis workflows, apply geoprocessing tools (buffer, merge, erase), and communicate results through both dashboards and cartographic layouts.
 
 ---
 
