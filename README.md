@@ -84,7 +84,7 @@ How sensitive are simulated groundwater heads in the Missoula Aquifer to Mountai
 - Δh (head difference) maps showing spatial sensitivity to MBR  
 - Summary statistics comparing head distributions across runs  
 
-[View Report (PDF)](PASTE_PDF_LINK)  
+[View Report (PDF)](grad_prj_report.pdf)  
 [View Notebook / Code](PASTE_NOTEBOOK_LINK)
 
 <img width="871" height="752" alt="Screenshot 2026-03-02 at 9 53 38 PM" src="https://github.com/user-attachments/assets/59b40374-4a88-47cc-ad4c-2ad29f1e45b0" />
