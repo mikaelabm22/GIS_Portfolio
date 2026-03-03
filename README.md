@@ -55,12 +55,13 @@ How does groundwater level vary spatially and seasonally within the Missoula Aqu
 - River-overlay visualization of groundwater elevation patterns  
 
 [View Notebook: FInal_Programming.ipynb]
+
 [View HTML Version](file:///Users/mikaelabollag-miller/Desktop/UMT/Semester%202/GIS/Final/GIS_Final_Nocode.html)
 
-<!-- <img width="928" height="538" alt="Screenshot 2026-03-02 at 9 39 41 PM" src="https://github.com/user-attachments/assets/966bd9a9-35a4-4e88-8bf7-479d9171a9e0" />
--->
-<!-- ![Kriged Groundwater Surface](images/kriging_surface.png) -->
-<!-- ![Kriging Variance Map](images/kriging_variance.png) -->
+ <img width="928" height="538" alt="Screenshot 2026-03-02 at 9 39 41 PM" src="https://github.com/user-attachments/assets/966bd9a9-35a4-4e88-8bf7-479d9171a9e0" />
+
+ ![Kriged Groundwater Surface](images/kriging_surface.png) 
+ ![Kriging Variance Map](images/kriging_variance.png) 
 
 ### Reflection  
 This project demonstrates my ability to conduct geospatial data preprocessing, perform statistical spatial interpolation (Kriging), manage coordinate systems, and communicate uncertainty in environmental modeling. It also highlights my interest in groundwater–surface water interactions and reproducible scientific workflows in Python.
