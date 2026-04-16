@@ -28,6 +28,8 @@ Translating Missoula’s urban camping ordinance into a clear spatial representa
 - ArcGIS Dashboard showing total allowable vs. restricted camping area  
 - Static map layout visualizing buffer restrictions  
 
+### Urban Camping Restrictions — Missoula
+[![Urban Camping Map](images/urban.png)]([YOUR_DASHBOARD_LINK](https://umontana.maps.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0))
 [View Dashboard](https://umontana.maps.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0)  
 
 ### Reflection  
