@@ -123,7 +123,7 @@ What are the most efficient and feasible trail routes to access Mill Creek climb
 *Interactive least-cost trail analysis for Mill Creek climbing area.*
 
 **Open the app here:**  
-https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f
+<meta http-equiv="refresh" content="0; url=https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f">
 
 [View Experience Builder](https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f)
 
