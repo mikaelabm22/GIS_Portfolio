@@ -29,8 +29,9 @@ Translating Missoula’s urban camping ordinance into a clear spatial representa
 - Static map layout visualizing buffer restrictions  
 
 ### Urban Camping Restrictions — Missoula
-[![Urban Camping Map](images/urban.png)]([(https://www.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0])
-[View Dashboard](https://www.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0)  
+[![Urban Camping Map](images/urban.png)](https://www.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0)
+
+[View Dashboard](https://www.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0)
 
 ### Reflection  
 This project demonstrates my ability to translate policy into spatial analysis, apply geoprocessing tools (buffer, merge, erase), and communicate results through both dashboards and cartographic layouts.
@@ -67,7 +68,7 @@ This project demonstrates my ability to conduct geospatial data preprocessing, p
 
 ---
 ## Investigating Mountain Block Recharge in the Missoula Aquifer (Conceptual MODFLOW Model)  
-**Hydrogeology (GEO 420)**  
+**Groundwater Modeling**  
 Mikaela Bollag-Miller  
 
 ### Problem  
@@ -98,4 +99,29 @@ How sensitive are simulated groundwater heads in the Missoula Aquifer to Mountai
 ### Reflection  
 This project demonstrates my ability to build a simplified groundwater model from conceptual assumptions, integrate climate and hydrogeologic datasets into boundary conditions, and run sensitivity analyses to interpret how recharge mechanisms (MBR) shape basin-scale head patterns. It also shows my skills in communicating model results through maps (head surfaces and Δh) and clear comparisons across scenarios.
 
+---
+## Least Cost Analysis: Mill Creek Trail Construction  
+**GIS Analysis For Trail Planning**  
+**In Collaberation with:** Mikaela Bollag-Miller, Chase Sabbagh, Mack Moore  
+
+### Problem  
+What are the most efficient and feasible trail routes to access Mill Creek climbing areas while minimizing construction difficulty, slope, and overall monetary cost?
+
+### Data & Tools  
+- ArcGIS Pro & ArcGIS Online (least-cost path)  
+- NLCD Landcover and Slope layers
+- Raptor closure zones (ecological constraints)  
+- Arc GIS Experience Builder (interactive visualization application)  
+
+### Output  
+- Five trail scenarios (high slope, low slope, alternate start, walk-off, and existing proposal)  
+- Least-cost path routes based on varying slope thresholds and constraints  
+- Interactive Experience Builder app for comparing routes and tradeoffs  
+
+[![Mill Creek Trail Analysis](images/mill_creek.png)](https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f)
+
+[View Experience Builder](https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f)
+
+### Reflection  
+This project demonstrates my ability to work in a group to apply least-cost path analysis to a real-world land management problem, balancing terrain, accessibility, and ecological constraints. We developed cost surfaces driven primarily by slope while incorporating landcover and protected areas to reflect construction feasibility and environmental considerations. The comparison of multiple scenarios highlights tradeoffs between shorter, steeper routes and longer, more accessible trails. This project also strengthened my ability to communicate spatial analysis through an interactive application designed for decision-making and stakeholder use.
 
