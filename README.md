@@ -102,7 +102,7 @@ This project demonstrates my ability to build a simplified groundwater model fro
 ---
 ## Least Cost Analysis: Mill Creek Trail Construction  
 **GIS Analysis For Trail Planning**  
-**In Collaberation with:** Mikaela Bollag-Miller, Chase Sabbagh, Mack Moore  
+**In Collaberation with:** Chase Sabbagh, Mack Moore  
 
 ### Problem  
 What are the most efficient and feasible trail routes to access Mill Creek climbing areas while minimizing construction difficulty, slope, and overall monetary cost?
