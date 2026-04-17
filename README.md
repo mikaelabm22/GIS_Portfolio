@@ -68,14 +68,14 @@ This project demonstrates my ability to conduct geospatial data preprocessing, p
 
 ---
 ## Investigating Mountain Block Recharge in the Missoula Aquifer (Conceptual MODFLOW Model)  
-**Groundwater Modeling**  
+**Groundwater Modeling Project**  
 Mikaela Bollag-Miller  
 
 ### Problem  
 How sensitive are simulated groundwater heads in the Missoula Aquifer to Mountain Block Recharge (MBR), and which parts of the aquifer respond most strongly to changes in lateral recharge?
 
 ### Data & Tools  
-- MODFLOW 6 Groundwater 
+- MODFLOW 6
 - Python (flopy, pygmt) + GIS for preprocessing, model setup, and visualizations 
 - Aquifer boundary + geometry (Simplified 1-layer, 50 m grid)  
 - Climate inputs: precipitation/melt (NOAA SNODAS) and evapotranspiration (OpenET) to estimate recharge (P − ET) 
@@ -83,7 +83,7 @@ How sensitive are simulated groundwater heads in the Missoula Aquifer to Mountai
 
 
 ### Output  
-- Three model scenarios (0×, 1×, 5× MBR) and resulting head surfaces  
+- Three steady-state model scenarios (0×, 1×, 5× MBR) and resulting head surfaces
 - Δh (head difference) maps showing spatial sensitivity to MBR  
 - Summary statistics comparing head distributions across runs  
 
@@ -101,7 +101,7 @@ This project demonstrates my ability to build a simplified groundwater model fro
 
 ---
 ## Least Cost Analysis: Mill Creek Trail Construction  
-**GIS Analysis For Trail Planning**  
+**GIS Analysis For Trail Planning:  Western CLimbers Coalition**  
 **In Collaberation with:** Chase Sabbagh, Mack Moore  
 
 ### Problem  
