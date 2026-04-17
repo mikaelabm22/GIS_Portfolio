@@ -118,7 +118,9 @@ What are the most efficient and feasible trail routes to access Mill Creek climb
 - Least-cost path routes based on varying slope thresholds and constraints  
 - Interactive Experience Builder app for comparing routes and tradeoffs  
 
-[![Mill Creek Trail Analysis](images/mill_creek.png)](https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f)
+<a href="https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f" target="_blank">
+  <img src="images/mill_creek.png" width="600">
+</a>
 
 [View Experience Builder](https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f)
 
