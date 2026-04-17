@@ -29,8 +29,8 @@ Translating Missoula’s urban camping ordinance into a clear spatial representa
 - Static map layout visualizing buffer restrictions  
 
 ### Urban Camping Restrictions — Missoula
-[![Urban Camping Map](images/urban.png)]([YOUR_DASHBOARD_LINK](https://umontana.maps.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0))
-[View Dashboard](https://umontana.maps.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0)  
+[![Urban Camping Map](images/urban.png)]([(https://www.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0])
+[View Dashboard](https://www.arcgis.com/apps/dashboards/34a0352567514c849c5d3712bc825db0)  
 
 ### Reflection  
 This project demonstrates my ability to translate policy into spatial analysis, apply geoprocessing tools (buffer, merge, erase), and communicate results through both dashboards and cartographic layouts.
