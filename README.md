@@ -123,7 +123,6 @@ What are the most efficient and feasible trail routes to access Mill Creek climb
 
 [View Interactive App](https://mikaelabm22.github.io/GIS_Portfolio/)
 
-[View Experience Builder](https://experience.arcgis.com/experience/b4d3d7f67ac04bd4b04c1a4f7cdd965f)
 
 ### Reflection  
 This project demonstrates my ability to work in a group to apply least-cost path analysis to a real-world land management problem, balancing terrain, accessibility, and ecological constraints. We developed cost surfaces driven primarily by slope while incorporating landcover and protected areas to reflect construction feasibility and environmental considerations. The comparison of multiple scenarios highlights tradeoffs between shorter, steeper routes and longer, more accessible trails. This project also strengthened my ability to communicate spatial analysis through an interactive application designed for decision-making and stakeholder use.
