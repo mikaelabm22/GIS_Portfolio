@@ -2,7 +2,7 @@
 ## About Me
 I am a hydrogeologist and GIS practitioner with a focus on groundwater systems, hydrologic modeling, and spatial data analysis. My work centers on understanding how water moves through complex subsurface environments, particularly the interaction of mountain groundwater systems with basin aquifers.
 
-I am especially interested in the intersection of field data, spatial analysis, and numerical modeling. I use GIS, Python, and groundwater modeling tools (e.g., MODFLOW) to integrate datasets such as precipitation, evapotranspiration, river discharge, snowpack, and groundwater levels to better understand recharge processes and aquifer dynamics. My research explores how mountain block recharge, surface water–groundwater interactions, and climatic variability influence groundwater availability.
+I am especially interested in the intersection of field data, spatial analysis, and numerical modeling. I use GIS, Python, and groundwater modeling tools (e.g., MODFLOW) to integrate datasets such as precipitation, evapotranspiration, river discharge, snowpack, and groundwater levels to better understand recharge processes and aquifer dynamics. My research explores how mountain block recharge, surface water–groundwater interactions, and climatic variability influence groundwater availability
 
 ---
 
