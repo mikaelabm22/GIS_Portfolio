@@ -1,4 +1,7 @@
-# Hydrogeology & GIS Portfolio
+---
+title: Hydrogeology & GIS Portfolio
+---
+
 Mikaela Bollag-Miller
 
 ## About Me
