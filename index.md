@@ -1,8 +1,3 @@
----
-title: Hydrogeology & GIS Portfolio
----
-
-Mikaela Bollag-Miller
 
 ## About Me
 I am a hydrogeologist and GIS practitioner with a focus on groundwater systems, hydrologic modeling, and spatial data analysis. My work centers on understanding how water moves through complex subsurface environments, particularly the interaction of mountain groundwater systems with basin aquifers.
